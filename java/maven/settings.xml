@@ -262,7 +262,8 @@ under the License.
         -->
     </profiles>
 
-    <!-- activeProfiles
+    <!--
+    activeProfiles
      | List of profiles that are active for all builds.
      |
     <activeProfiles>
